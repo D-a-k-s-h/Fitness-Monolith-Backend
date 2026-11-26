@@ -241,7 +241,7 @@ Make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_BACKEND_REPOSITORY_URL>
+git clone https://github.com/D-a-k-s-h/Fitness-Monolith-Backend
 cd fitness-monolith
 ```
 
